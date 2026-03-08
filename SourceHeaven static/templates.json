@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Blender Character Model",
+    "slug": "blender-character-model",
+    "category": "3D Model",
+    "short_description": "High quality character model ready for animation.",
+    "image": "https://i.ytimg.com/vi/RfAYtY4KsF4/maxresdefault.jpg",
+    "file_link": "#"
+  },
+  {
+    "id": 2,
+    "title": "React Admin Dashboard",
+    "slug": "react-admin-dashboard",
+    "category": "Web Template",
+    "short_description": "Clean admin dashboard UI kit.",
+    "image": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910",
+    "file_link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website Template",
+    "slug": "portfolio-website-template",
+    "category": "Web Template",
+    "short_description": "Clean and modern portfolio website template for designers and developers.",
+    "image": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1522202176988-66273c2fd55f&width=910",
+    "file_link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Low Poly Car Model",
+    "slug": "low-poly-car-model",
+    "category": "3D Model",
+    "short_description": "Optimized low-poly car model for games.",
+    "image": "https://assets.superhivemarket.com/store/productimage/479975/image/c85a4f867969952e798476909c802efb.jpg",
+    "file_link": "#"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Shop Template",
+    "slug": "ecommerce-shop-template",
+    "category": "Web Template",
+    "short_description": "Modern e-commerce template for online stores.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "file_link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Stylized Tree Model",
+    "slug": "stylized-tree-model",
+    "category": "3D Model",
+    "short_description": "Cartoon-style tree model for animation and games.",
+    "image": "https://media.sketchfab.com/models/6d1aeea748f147789004bc03e1930d32/thumbnails/2b847921077c420a90588d64a2fef29f/c8be2d4271384c0eaa1b00dc862d53c0.jpeg",
+    "file_link": "#"
+  },
+  {
+    "id": 7,
+    "title": "Landing Page Template",
+    "slug": "landing-page-template",
+    "category": "Web Template",
+    "short_description": "Responsive landing page template with clean design.",
+    "image": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+    "file_link": "#"
+  },
+  {
+    "id": 8,
+    "title": "Animated Character Model",
+    "slug": "animated-character-model",
+    "category": "3D Model",
+    "short_description": "Rigged character ready for animation and games.",
+    "image": "https://img.freepik.com/free-vector/woman-character-body-cartoon-design-vector-set_107791-27882.jpg?semt=ais_hybrid&w=740&q=80",
+    "file_link": "#"
+  },
+  {
+    "id": 9,
+    "title": "Blog Template",
+    "slug": "blog-template",
+    "category": "Web Template",
+    "short_description": "Minimalist blog template for writers and creatives.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "file_link": "#"
+  },
+  {
+    "id": 10,
+    "title": "Sci-Fi Spaceship Model",
+    "slug": "sci-fi-spaceship-model",
+    "category": "3D Model",
+    "short_description": "High-detail sci-fi spaceship model for rendering and games.",
+    "image": "https://p.turbosquid.com/ts-thumb/Ob/iuQpMQ/Xf/be201/jpg/1653234507/1920x1080/fit_q87/af2b0cafe925d651019d01fc2d9dfb6c4506775d/be201.jpg",
+    "file_link": "#"
+  }
+]
