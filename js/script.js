@@ -1,4 +1,4 @@
-fetch("templates.json")
+fetch("./templates.json")
   .then(res => res.json())
   .then(data => {
 
@@ -28,5 +28,6 @@ fetch("templates.json")
       );
       displayTemplates(filtered);
     });
+
 
   });
