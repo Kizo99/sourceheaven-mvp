@@ -3,7 +3,7 @@ const slug = params.get("slug");
 console.log("Slug from URL:", slug);
 
 
-fetch("templates.json")
+fetch("./templates.json")
   .then(res => res.json())
   .then(data => {
 
@@ -26,4 +26,5 @@ fetch("templates.json")
       <a href="${template.file_link}">Download</a>
       <p>Category: ${template.category}</p>
     `;
+
   });
