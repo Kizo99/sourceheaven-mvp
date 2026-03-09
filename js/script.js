@@ -14,7 +14,7 @@ fetch("./templates.json")
             <img src="${template.image}" />
             <h3>${template.title}</h3>
             <p>${template.short_description}</p>
-            <button><a href="./template?slug=${template.slug}">View Template</a></button>
+            <button><a href="template.html?slug=${template.slug}">View Template</a></button>
           </div>
         `;
       });
@@ -31,4 +31,5 @@ fetch("./templates.json")
 
 
   });
+
 
